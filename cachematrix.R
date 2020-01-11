@@ -1,6 +1,6 @@
-## This function makes a special matrix and stores it in a cache
-## the function creates a list that contains the following functions
-## 1. set teh vaue of the matrix
+## This function makes a special matrix and stores it in a cache.
+## The function creates a list that contains the following functions
+## 1. set the vaue of the matrix
 ## 2. get the value of the matrix
 ## 3. set the result of the inverse
 ## 4. get the result of the inverse
